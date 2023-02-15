@@ -16,4 +16,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: zmikept/brightstart-miguelrodrigues:${{ github.run_number }}
+        tags: zmikept/brightstarts-miguelrodrigues:${{ github.run_number }}
